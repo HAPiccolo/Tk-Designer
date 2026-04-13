@@ -1,0 +1,20 @@
+[
+    {
+        "id": "button_1",
+        "type": "TButton",
+        "x": 261,
+        "y": 101,
+        "width": 104,
+        "height": 35,
+        "text": "Nuevo Button"
+    },
+    {
+        "id": "entry_2",
+        "type": "TEntry",
+        "x": 241,
+        "y": 141,
+        "width": 166,
+        "height": 25,
+        "text": ""
+    }
+]
